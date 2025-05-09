@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "40 minutes",
+    "test_type": "Technical Skills",
+    "description": "Evaluates a candidate's ability to debug and fix code with advanced logic and algorithms. Focuses on problem-solving skills essential for software development."
+  },
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "35 minutes",
+    "test_type": "Technical Skills",
+    "description": "Assesses fundamental Java programming skills including syntax, data structures, object-oriented concepts, and basic Java functionality ideal for entry-level positions."
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "40 minutes",
+    "test_type": "Technical Skills",
+    "description": "Tests advanced Java 8 knowledge including lambda expressions, functional interfaces, streams, and modern Java features for experienced developers."
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "40 minutes",
+    "test_type": "Technical Skills",
+    "description": "Evaluates advanced Java programming skills including multithreading, collections framework, exception handling, and complex problem solving for senior developers."
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "30 minutes",
+    "test_type": "Methodology",
+    "description": "Assesses knowledge of Agile methodologies, Scrum practices, team collaboration, and iterative development approaches for software professionals."
+  },
+  {
+    "name": "Technology Professional 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "45 minutes",
+    "test_type": "General Technology",
+    "description": "Comprehensive assessment for technology professionals that evaluates technical aptitude, problem-solving skills, and IT domain knowledge."
+  },
+  {
+    "name": "Computer Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "40 minutes",
+    "test_type": "Technical Skills",
+    "description": "Evaluates fundamental computer science concepts including algorithms, data structures, computational thinking, and software design principles."
+  },
+  {
+    "name": "Python (Entry Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-entry-level-new/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "35 minutes",
+    "test_type": "Technical Skills",
+    "description": "Assesses basic Python programming skills including syntax, data types, control flow, functions, and standard libraries for entry-level positions."
+  },
+  {
+    "name": "Python (Advanced Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-advanced-level-new/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "45 minutes",
+    "test_type": "Technical Skills",
+    "description": "Tests advanced Python programming concepts including decorators, generators, advanced data structures, asynchronous programming, and complex problem solving."
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "30 minutes",
+    "test_type": "Technical Skills",
+    "description": "Evaluates SQL knowledge including query writing, database design, joins, aggregations, and data manipulation for database roles."
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "35 minutes",
+    "test_type": "Technical Skills",
+    "description": "Assesses JavaScript programming skills including DOM manipulation, async programming, ES6 features, and web application development concepts."
+  },
+  {
+    "name": "Entry level Sales 7.1 (International)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "45 minutes",
+    "test_type": "Sales Skills",
+    "description": "Evaluates essential sales competencies for entry-level sales professionals including customer focus, communication, and basic sales techniques."
+  },
+  {
+    "name": "Entry Level Sales Sift Out 7.1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "25 minutes",
+    "test_type": "Sales Skills",
+    "description": "Screening assessment for entry-level sales candidates that identifies key sales behaviors and attributes for initial candidate filtering."
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "60 minutes",
+    "test_type": "Sales Skills",
+    "description": "Comprehensive assessment for entry-level sales roles evaluating sales aptitude, customer service skills, and fundamental sales competencies."
+  },
+  {
+    "name": "Sales Representative Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "60 minutes",
+    "test_type": "Sales Skills",
+    "description": "Evaluates sales representative capabilities including prospecting, needs identification, objection handling, closing skills, and relationship building."
+  },
+  {
+    "name": "Sales Support Specialist Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-support-specialist-solution/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "55 minutes",
+    "test_type": "Sales Support",
+    "description": "Assesses skills required for sales support roles including customer service, administrative efficiency, and supporting sales team processes."
+  },
+  {
+    "name": "Technical Sales Associate Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "60 minutes",
+    "test_type": "Technical Sales",
+    "description": "Evaluates technical sales professionals on product knowledge, solution selling, technical communication, and complex sales processes."
+  },
+  {
+    "name": "SVAR - Spoken English (Indian Accent) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "30 minutes",
+    "test_type": "Language Skills",
+    "description": "Assesses spoken English communication skills with a focus on clarity, fluency, pronunciation, and comprehension for Indian accent speakers."
+  },
+  {
+    "name": "Sales & Service Phone Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-solution/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "60 minutes",
+    "test_type": "Sales & Service",
+    "description": "Comprehensive assessment for phone-based sales and customer service roles evaluating communication, problem-solving, and customer engagement skills."
+  },
+  {
+    "name": "Sales & Service Phone Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "45 minutes",
+    "test_type": "Sales & Service",
+    "description": "Simulates realistic phone interactions to evaluate candidates' ability to handle customer inquiries, sales opportunities, and service scenarios."
+  },
+  {
+    "name": "English Comprehension (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "25 minutes",
+    "test_type": "Language Skills",
+    "description": "Evaluates English reading and understanding capabilities including vocabulary, context analysis, and written communication comprehension."
+  },
+  {
+    "name": "Motivation Questionnaire",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "35 minutes",
+    "test_type": "Personality & Motivation",
+    "description": "Assesses workplace motivations, drivers, and preferences to determine role fit and potential job satisfaction factors."
+  },
+  {
+    "name": "OPQ Personality Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-personality-assessment/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "45 minutes",
+    "test_type": "Personality & Motivation",
+    "description": "Comprehensive personality assessment measuring workplace behaviors, preferences, and traits to predict job performance and cultural fit."
+  },
+  {
+    "name": "Coding (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/coding-new/",
+    "remote_testing": "Yes",
+    "adaptive_support": "No",
+    "duration": "60 minutes",
+    "test_type": "Technical Skills",
+    "description": "Hands-on coding assessment evaluating programming ability, problem-solving, code efficiency, and software development practices."
+  },
+  {
+    "name": "Inductive Reasoning Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/inductive-reasoning-test/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "25 minutes",
+    "test_type": "Cognitive Ability",
+    "description": "Measures logical thinking ability and pattern recognition skills essential for problem-solving and strategic roles."
+  },
+  {
+    "name": "Numerical Reasoning Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/numerical-reasoning-test/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "25 minutes",
+    "test_type": "Cognitive Ability",
+    "description": "Assesses ability to analyze and interpret numerical data, graphs, and statistics in work-related contexts."
+  },
+  {
+    "name": "Deductive Reasoning Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/deductive-reasoning-test/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "25 minutes",
+    "test_type": "Cognitive Ability",
+    "description": "Evaluates logical reasoning skills, ability to make sound conclusions from available information, and critical thinking capabilities."
+  },
+  {
+    "name": "Verbal Reasoning Test",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verbal-reasoning-test/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "25 minutes",
+    "test_type": "Cognitive Ability",
+    "description": "Measures ability to understand and analyze written information, evaluate arguments, and make logical conclusions from textual data."
+  },
+  {
+    "name": "Data Analyst Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-analyst-solution/",
+    "remote_testing": "Yes",
+    "adaptive_support": "Yes",
+    "duration": "60 minutes",
+    "test_type": "Technical Skills",
+    "description": "Comprehensive assessment for data analyst roles evaluating statistical knowledge, data manipulation skills, analytical thinking, and data visualization capabilities."
+  }
+]
